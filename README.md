@@ -1,4 +1,4 @@
-# ESP8266-door-control
+# Description
 Simple ESP8266 code to open or close a door (i.e. garage door) with a relay.
 
 # General
